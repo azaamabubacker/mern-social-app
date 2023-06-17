@@ -30,7 +30,7 @@ const LoginPage = () => {
           textAlign="center"
           sx={{ mb: "1.5rem" }}
         >
-          WelCome to FriendsBook, Where Friendship Comes to Life!
+          WelCome to SocialApp, Where Friendship Comes to Life!
         </Typography>
         <Form />
       </Box>
